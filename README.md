@@ -12,3 +12,7 @@ A console to-do list app built with Java.
 
 ## How to run
 Open in IntelliJ IDEA and run Main.java.
+
+## Window version
+Run TodoGUI.java for the Swing window version with buttons
+(Add, Mark done, Delete, Stats) and red overdue tasks.
